@@ -9,7 +9,7 @@ It does **not** contain raw structure data — you provide your own PDB or mmCIF
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/<your-username>/abepitope_asr.git
+git clone https://github.com/asrathore12/abepitope_asr.git
 cd abepitope_asr
 ```
 
